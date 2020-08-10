@@ -1,0 +1,22 @@
+table {
+    
+   border:2 ;
+   border-spacing: 15px;
+   background:#34495E  ;
+   color: #A5EBEC;
+}
+td, td {
+   background: #A2D9CE;
+   color: #000;
+    width: 450 ;
+    height: 350 ;
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../multimedia/principal.png) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
